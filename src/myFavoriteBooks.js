@@ -57,5 +57,6 @@ class MyFavoriteBooks extends React.Component {
       </Jumbotron>
     );
   }
+  
 }
 export default withAuth0(MyFavoriteBooks);
